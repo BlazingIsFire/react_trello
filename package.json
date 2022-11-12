@@ -2,7 +2,7 @@
   "name": "react_trello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BlazingIsFire.github.io/react-trello",
+  "homepage": "https://blazingisfire.github.io/react_trello/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
